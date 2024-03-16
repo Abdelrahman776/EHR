@@ -68,7 +68,7 @@ jobs:
           tenant-id: 80282560-3450-4ec6-81da-014ee21c7012
           subscription-id: f20fa320-e3a2-4142-b500-13880944fc8c
 
-      - name: "Deploy to Azure Web App"
+      - name: "AbdelrahmanKamal4210201"
         uses: azure/webapps-deploy@v2
         id: deploy-to-webapp
         with:
